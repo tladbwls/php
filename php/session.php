@@ -14,7 +14,7 @@ if (isset($_SESSION['userid'])) {
     echo '세션 없음';
 }
 
-echo $userid;
+// echo $userid;
 
 ?>
 
